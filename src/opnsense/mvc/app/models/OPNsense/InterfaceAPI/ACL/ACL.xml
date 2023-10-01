@@ -1,0 +1,10 @@
+<acl>
+    <!-- unique acl key, must be globally unique for all ACLs  -->
+    <page-user-interfaceapi>
+        <name>API: Interfaces</name>
+        <description>Allow retrieval of interface information</description>
+        <patterns>
+            <pattern>api/interfaceapi/*</pattern>
+        </patterns>
+    </page-user-interfaceapi>
+</acl>

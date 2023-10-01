@@ -1,0 +1,8 @@
+<model>
+    <mount>//OPNsense/interfaceapi</mount>
+    <description>
+        API for interface information
+    </description>
+    <items>
+    </items>
+</model>
